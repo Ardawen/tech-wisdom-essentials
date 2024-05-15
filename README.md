@@ -1,6 +1,6 @@
 # tech-wisdom-essentials
 # Table of Contents
-+ [Introduction](https://github.com/Ardawen/tech-wisdom-essentials/edit/main/README.md#test)
++ [Introduction](https://github.com/Ardawen/tech-wisdom-essentials/edit/main/README.md#introduction)
 + Books
 + Articles
 

@@ -18,10 +18,10 @@ Items:
 + ⚡: must-read
 
 ### Test
-## Team Vision / Work
+### Team Vision / Work
 + Seth Godin, [a manifesto for small teams doing important work](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/): A perfect list of cultural values that facilitates establishing your team vision!
 
-## Ideation
+### Ideation
 ✖️[Idea Lab](https://twitter.com/waitbutwhy/status/1278035160454348800?lang=en)
 
 

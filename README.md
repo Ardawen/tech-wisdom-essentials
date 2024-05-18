@@ -20,6 +20,7 @@ Items:
 ### Test
 ### Team Vision / Work
 + Seth Godin, [a manifesto for small teams doing important work](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/): A perfect list of cultural values that facilitates establishing your team vision!
++ [Team first principles](https://medium.com/mbreads/trillion-dollar-coach-4a7e5d25af55)
 
 ### Ideation
 + ✖️ Tim Urban, [Idea Lab](https://x.com/waitbutwhy/status/1278035160454348800): A concept emphasizing the need for a safe space for people but a challenging space for ideas.

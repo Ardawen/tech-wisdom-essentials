@@ -25,7 +25,7 @@ Items:
 ### Ideation
 + ✖️ Tim Urban, [Idea Lab](https://x.com/waitbutwhy/status/1278035160454348800): A concept emphasizing the need for a safe space for people but a challenging space for ideas.
 
-
+Founding a Company in Germany [Easy steps to found in Germany](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
 
 Toolbox, this will be deleted later:
 > [!NOTE]
